@@ -1,5 +1,4 @@
 class Solution:
-
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
 
         m,n = len(nums1), len(nums2)
@@ -42,4 +41,3 @@ class Solution:
             return helper(nums1, m, nums2, n)
         else:
             return helper(nums2, n, nums1, m)
-    
