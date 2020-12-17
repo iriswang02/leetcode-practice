@@ -16,7 +16,7 @@ class Solution {
   *
   *   Time complexity : O(log(min(m,n))). Binary search on the shorter array.
   *
-  *   Space complexity : O(1). We nly need constant memory to store local varaibles.
+  *   Space complexity : O(1). We only need constant memory to store local varaibles.
   */
 
 public:
