@@ -15,3 +15,7 @@ Codes for [leetcode] problems' solutions
 | 8 | String to Integer (atoi) | [C++](./solutions/stringToInteger-8/stringToInteger-8.cpp), [Python](./solutions/stringToInteger-8/stringToInteger-8.py) | Medium |
 | 9 | Palindrome Number | [C++](./solutions/palindromeNumber-9/palindromeNumber-9.cpp), [Python](./solutions/palindromeNumber-9/palindromeNumber-9.py) | Easy |
 | 10 | Regular Expression Matching | [C++](./solutions/regularExpressionMatching-10/regularExpressionMatching-10.cpp), [Python](./solutions/regularExpressionMatching-10/regularExpressionMatching-10.py) | Hard |
+| 11 | Container With Most Water | [C++](./solutions/containerWithMostWater-11/containerWithMostWater-11.cpp), [Python](./solutions/containerWithMostWater-11/containerWithMostWater-11.py) | Medium |
+| 12 | Integer to Roman | [C++](./solutions/integerToRoman-12/integerToRoman-12.cpp), [Python](./solutions/integerToRoman-12/integerToRoman-12.py) | Medium |
+| 13 | Roman to Integer | [C++](./solutions/romanToInteger-13/romanToInteger-13.cpp), [Python](./solutions/romanToInteger-13/romanToInteger-13.py) | Easy |
+| 14 | Longest Common Prefix | [C++](./solutions/longestCommonPrefix-14/longestCommonPrefix-14.cpp), [Python](./solutions/longestCommonPrefix-14/longestCommonPrefix-14.py) | Easy |
