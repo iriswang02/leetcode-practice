@@ -15,10 +15,10 @@ class Solution {
   /*
   *   [Vertical scanning]
   *
-  *   Time complexity : O(S)O(S) , where S is the sum of all characters in all strings.
-  *   the best case there are at most n * ⋅minLen comparisons where \minLen is the length of the shortest string in the array.
+  *   Time complexity : O(S), where S is the sum of all characters in all strings.
+  *   the best case there are at most n * ⋅minLen comparisons where minLen is the length of the shortest string in the array.
   *
-  *   Space complexity : O(1)O(1). We only used constant extra space.
+  *   Space complexity : O(1). We only used constant extra space.
   */
 
 public:

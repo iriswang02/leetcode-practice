@@ -19,3 +19,11 @@ Codes for [leetcode] problems' solutions
 | 12 | Integer to Roman | [C++](./solutions/integerToRoman-12/integerToRoman-12.cpp), [Python](./solutions/integerToRoman-12/integerToRoman-12.py) | Medium |
 | 13 | Roman to Integer | [C++](./solutions/romanToInteger-13/romanToInteger-13.cpp), [Python](./solutions/romanToInteger-13/romanToInteger-13.py) | Easy |
 | 14 | Longest Common Prefix | [C++](./solutions/longestCommonPrefix-14/longestCommonPrefix-14.cpp), [Python](./solutions/longestCommonPrefix-14/longestCommonPrefix-14.py) | Easy |
+| 15 | 3 Sum | [C++](./solutions/3Sum-15/3Sum-15.cpp), [Python](./solutions/3Sum-15/3Sum-15.py) | Medium |
+| 16 | 3 Sum Closest | [C++](./solutions/3SumClosest-16/3SumClosest-16.cpp), [Python](./solutions/3SumClosest-16/3SumClosest-16.py) | Medium |
+| 17 | Letter Combination of A Phone Number | [C++](./solutions/letterCombinationsOfAPhoneNumber-17/letterCombinationsOfAPhoneNumber-17.cpp), [Python](./solutions/letterCombinationsOfAPhoneNumber-17/letterCombinationsOfAPhoneNumber-17.py) | Medium |
+| 18 | 4 Sum | [C++](./solutions/4Sum-18/4Sum-18.cpp), [Python](./solutions/4Sum-18/4Sum-18.py) | Medium |
+| 19 | Remove Nth Node From End Of List | [C++](./solutions/removeNthNodeFromEndOfList-19/removeNthNodeFromEndOfList-19.cpp), [Python](./solutions/removeNthNodeFromEndOfList-19/removeNthNodeFromEndOfList-19.py) | Medium |
+| 20   | Valid Parentheses | [C++](./solutions/validParentheses-20/validParentheses-20.cpp), [Python](./solutions/validParentheses-20/validParentheses-20.py) | Easy |
+| 21 | Merge Two Sorted Lists | [C++](./solutions/mergeTwoSortedLists-21/mergeTwoSortedLists-21.cpp), [Python](./solutions/mergeTwoSortedLists-21/mergeTwoSortedLists-21.py) | Easy |
+
