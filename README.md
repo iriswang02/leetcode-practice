@@ -24,6 +24,13 @@ Codes for [leetcode] problems' solutions
 | 17 | Letter Combination of A Phone Number | [C++](./solutions/letterCombinationsOfAPhoneNumber-17/letterCombinationsOfAPhoneNumber-17.cpp), [Python](./solutions/letterCombinationsOfAPhoneNumber-17/letterCombinationsOfAPhoneNumber-17.py) | Medium |
 | 18 | 4 Sum | [C++](./solutions/4Sum-18/4Sum-18.cpp), [Python](./solutions/4Sum-18/4Sum-18.py) | Medium |
 | 19 | Remove Nth Node From End Of List | [C++](./solutions/removeNthNodeFromEndOfList-19/removeNthNodeFromEndOfList-19.cpp), [Python](./solutions/removeNthNodeFromEndOfList-19/removeNthNodeFromEndOfList-19.py) | Medium |
-| 20   | Valid Parentheses | [C++](./solutions/validParentheses-20/validParentheses-20.cpp), [Python](./solutions/validParentheses-20/validParentheses-20.py) | Easy |
+| 20 | Valid Parentheses | [C++](./solutions/validParentheses-20/validParentheses-20.cpp), [Python](./solutions/validParentheses-20/validParentheses-20.py) | Easy |
 | 21 | Merge Two Sorted Lists | [C++](./solutions/mergeTwoSortedLists-21/mergeTwoSortedLists-21.cpp), [Python](./solutions/mergeTwoSortedLists-21/mergeTwoSortedLists-21.py) | Easy |
-
+| 22 | Generate Parentheses | [C++](./solutions/generateParentheses-22/generateParentheses-22.cpp), [Python](./solutions/generateParentheses-22/generateParentheses-22.py) | Easy |
+| 23 | Merge k Sorted Lists | [C++](./solutions/mergeKSortedLists-23/mergeKSortedLists-23.cpp), [Python](./solutions/mergeKSortedLists-23/mergeKSortedLists-23.py) | Easy |
+| 24 | Swap Nodes in Pairs | [C++](./solutions/swapNodesInPairs-24/swapNodesInPairs-24.cpp), [Python](./solutions/swapNodesInPairs-24/swapNodesInPairs-24.py) | Easy |
+| 25 | Reverse Nodes in k-Group | [C++](./solutions/reverseNodesInKGroups-25/reverseNodesInKGroups-25.cpp), [Python](./solutions/reverseNodesInKGroups-25/reverseNodesInKGroups-25.py) | Easy |
+| 26 | Remove Duplicates from Sorted Array | [C++](./solutions/removeDuplicatesFromSortedArray-26/removeDuplicatesFromSortedArray-26.cpp), [Python](./solutions/removeDuplicatesFromSortedArray-26/removeDuplicatesFromSortedArray-26.py) | Easy |
+| 27 | Remove Element | [C++](./solutions/removeElement-27/removeElement-27.cpp), [Python](./solutions/removeElement-27/removeElement-27.py) | Easy |
+| 28 | Implement strStr() | [C++](./solutions/implementStrStr-28/implementStrStr-28.cpp), [Python](./solutions/implementStrStr-28/implementStrStr-28.py) | Easy |
+| 29 | Divide Two Integers | [C++](./solutions/divideTwoIntegers-29/divideTwoIntegers-29.cpp), [Python](./solutions/divideTwoIntegers-29/divideTwoIntegers-29.py) | Easy |
